@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dfttkj5cab5pe"
+path="res://.godot/imported/la_llama_eterna_combat.dialogue-782f644f2db342cc3e41c8c6c7c1890a.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/la_llama_eterna/2_combat/combat_components/la_llama_eterna_combat.dialogue"
+dest_files=["res://.godot/imported/la_llama_eterna_combat.dialogue-782f644f2db342cc3e41c8c6c7c1890a.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dgiq2p3br5aum"
+path="res://.godot/imported/la_llama_eterna_sequence_puzzle.dialogue-7de49106e29b97c1b987a0aeddbdb3ef.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/la_llama_eterna/3_sequence_puzzle/la_llama_eterna_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/la_llama_eterna_sequence_puzzle.dialogue-7de49106e29b97c1b987a0aeddbdb3ef.tres"]
+
+[params]
+
+defaults=true

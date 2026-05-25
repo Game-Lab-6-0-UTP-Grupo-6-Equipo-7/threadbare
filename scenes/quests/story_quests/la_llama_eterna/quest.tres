@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Quest" format=3 uid="uid://csi72l3j0rvbk"]
+
+[ext_resource type="Script" uid="uid://dts1hwdy3phin" path="res://scenes/menus/storybook/components/quest.gd" id="1_h7mu1"]
+
+[resource]
+script = ExtResource("1_h7mu1")
+title = "La llama eterna"
+first_scene = "uid://dwnxcvhrj3igt"
+metadata/_custom_type_script = "uid://dts1hwdy3phin"

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cx2ava54rkfov"
+path="res://.godot/imported/la_llama_eterna_intro.dialogue-17f75ee90c7688e98242a63616fa6697.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/la_llama_eterna/0_intro/intro_components/la_llama_eterna_intro.dialogue"
+dest_files=["res://.godot/imported/la_llama_eterna_intro.dialogue-17f75ee90c7688e98242a63616fa6697.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cnpf02aamfsey"
+path="res://.godot/imported/la_llama_eterna_checkpoint.dialogue-8aa181c839eba04f9f2a275ad8b0dd81.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/la_llama_eterna/1_stealth/stealth_components/la_llama_eterna_checkpoint.dialogue"
+dest_files=["res://.godot/imported/la_llama_eterna_checkpoint.dialogue-8aa181c839eba04f9f2a275ad8b0dd81.tres"]
+
+[params]
+
+defaults=true
