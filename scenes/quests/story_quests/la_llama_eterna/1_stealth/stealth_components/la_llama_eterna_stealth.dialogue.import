@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://thv151m3r4d0"
+path="res://.godot/imported/la_llama_eterna_stealth.dialogue-b9b6bad030a5383b4f221b7c4abcda16.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/la_llama_eterna/1_stealth/stealth_components/la_llama_eterna_stealth.dialogue"
+dest_files=["res://.godot/imported/la_llama_eterna_stealth.dialogue-b9b6bad030a5383b4f221b7c4abcda16.tres"]
+
+[params]
+
+defaults=true
